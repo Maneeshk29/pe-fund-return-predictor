@@ -1,0 +1,8 @@
+{
+  "best_model": "Ridge Regression",
+  "picked_funds": 253,
+  "top_quartile_hit_rate": 0.585,
+  "random_hit_rate": 0.257,
+  "avg_irr_picked": 18.93,
+  "avg_irr_all": 13.35
+}

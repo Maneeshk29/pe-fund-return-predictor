@@ -1,0 +1,5 @@
+model,cv_rmse,rmse,mae,r2
+Baseline (training mean),,8.8043,6.6287,-0.0915
+Ridge Regression,5.7675,5.5844,4.0013,0.5609
+Random Forest,6.1441,6.3725,4.7928,0.4282
+XGBoost,6.1305,6.111,4.4614,0.4741
