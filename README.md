@@ -2,6 +2,8 @@
 
 A machine-learning system for forecasting private equity fund returns (net IRR) from historical performance, fund terms, portfolio risk indicators and market conditions. It compares **Ridge Regression, Random Forest and XGBoost** and evaluates them the way a screening model is used: train on older vintage years, test on newer ones.
 
+**Results page:** https://pe-fund-return-predictor.vercel.app
+
 ![Model results](results/model_results.png)
 
 ## Results (synthetic data, 2016–2020 vintages held out)
